@@ -1,0 +1,215 @@
+/* Importa a fonte Chakra Petch do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+/* Estiliza o corpo da página */
+html,
+body {
+  width: 100%;
+  overflow-x: hidden; /* Evita o overflow horizontal */
+  margin: 0;
+  padding: 0;
+  font-family: 'Chakra Petch', sans-serif;
+  background-color: #0f0f0f;
+  color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url('/images/background-anime.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Estiliza o contêiner principal */
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estiliza os títulos h1 */
+h1 {
+  font-size: 3rem;
+  color: #e94560;
+  text-align: center;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px rgba(233, 69, 96, 0.8);
+  margin-bottom: 2rem;
+}
+
+/* Estiliza as seções da página */
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto 2rem;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+  width: 90%;
+  max-width: 950px;
+  max-width: 60rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Estiliza os inputs dentro das seções */
+section input {
+  width: 100%;
+  max-width: 30rem;
+  border: 2px solid #e94560;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  margin-bottom: 1rem;
+  color: #f5f5f5;
+  background-color: #222831;
+  font-size: 1rem;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+
+/* Ajusta o foco do campo de pesquisa */
+section input:focus {
+  border-color: #ff4757; /* Cor da borda quando o campo está em foco */
+  outline: none; /* Remove a borda padrão do navegador ao focar */
+}
+
+/* Remove a borda quando o campo está vazio */
+section input::placeholder {
+  color: #888; /* Cor do texto de placeholder */
+}
+
+/* Estiliza os botões dentro das seções */
+section button {
+  padding: 0.8rem 1.2rem;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #e94560;
+  color: #f5f5f5;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+section button:hover {
+  background-color: #ff4757;
+  transform: scale(1.1);
+}
+
+/* Centraliza e estiliza a caixa de resultados da pesquisa */
+.resultados-pesquisa {
+  width: 100%;
+  max-width: 60rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.resultados-pesquisa:empty {
+  display: none;
+}
+
+/* Estiliza cada item de resultado */
+.item-resultado {
+  background: #2e2e2e;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  color: #f5f5f5;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estiliza os títulos dentro dos itens de resultado */
+.item-resultado h2 {
+  font-size: 1.6rem;
+  color: #e94560;
+  margin: 1rem 0 0;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+/* Estiliza os links dentro dos itens de resultado */
+.item-resultado a {
+  text-decoration: none;
+  color: #f5f5f5;
+  transition: color 0.3s;
+}
+
+.item-resultado a:hover {
+  color: #e94560;
+  text-decoration: underline;
+}
+
+/* Ajusta o rodapé da página */
+footer {
+  background-color: #222831;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 1rem;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  font-size: 1rem;
+  border-top: 2px solid #e94560;
+  margin-top: auto;
+}
+
+/* Responsividade para dispositivos menores */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+  }
+
+  section input {
+    max-width: 25rem;
+  }
+
+  .resultados-pesquisa {
+    max-width: 40rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.8rem;
+    letter-spacing: 0.1rem;
+  }
+
+  section input {
+    max-width: 17rem;
+  }
+
+  section button {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .resultados-pesquisa {
+    max-width: 90%;
+  }
+
+  .item-resultado h2 {
+    font-size: 1.1rem;
+  }
+
+  footer {
+    font-size: 0.9rem;
+    text-align: left;
+  }
+}

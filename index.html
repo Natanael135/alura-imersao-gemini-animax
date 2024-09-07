@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/images/icon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Animax</title>
+  </head>
+  <body>
+    <header>
+      <h1>Animax</h1>
+    </header>
+    <main>
+      <section>
+        <input
+          type="text"
+          name="search"
+          placeholder="Digite o nome ou genero do anime que deseja pesquisar"
+          id="campo-pesquisa"
+        />
+        <button onclick="buscar()">Buscar</button>
+      </section>
+      <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
+    </main>
+    <footer>
+      <p>2024 - Animax. Todos direitos reservados</p>
+      <p>Entre em contato com natanaelmelo.dev@gmail.com</p>
+    </footer>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

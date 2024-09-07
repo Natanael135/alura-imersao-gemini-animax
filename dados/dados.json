@@ -1,0 +1,219 @@
+[
+  {
+    "Titulo": "Naruto",
+    "Genero": "Shounen, Ação, Aventura",
+    "AnoLancamento": 2002,
+    "Sinopse": "Uma Jornada de um Ninja Naruto é um anime emocionante que acompanha a vida de Naruto Uzumaki, um jovem ninja da Vila da Folha. Marcado pelo selo de uma poderosa raposa demoníaca, Naruto busca reconhecimento e sonha em se tornar o Hokage, o líder de sua vila.",
+    "link": "https://pt.wikipedia.org/wiki/Naruto"
+  },
+  {
+    "Titulo": "Jujutsu Kaisen",
+    "Genero": "Shounen, Ação, Sobrenatural",
+    "AnoLancamento": 2018,
+    "Sinopse": "Uma batalha sobrenatural em um mundo oculto de feiticeiros. Itadori Yuji, um adolescente comum, vê sua vida mudar drasticamente quando ele se envolve em um mundo de maldições e feitiçaria. Ao ingerir um dos dedos do lendário Ryomen Sukuna, o Rei das Maldições, Yuji se torna um recipiente para essa poderosa entidade e é matriculado no Colégio Técnico de Jujutsu de Tóquio, onde aprende a controlar seus novos poderes e a lutar contra as forças das trevas.",
+    "link": "https://pt.wikipedia.org/wiki/Jujutsu_Kaisen"
+  },
+  {
+    "Titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "Genero": "Shounen, Ação, Fantasia",
+    "AnoLancamento": 2019,
+    "Sinopse": "Em um Japão demoníaco, Tanjiro Kamado, um jovem carvoeiro gentil, descobre que sua família foi massacrada por um demônio. A única sobrevivente, sua irmã Nezuko, foi transformada em um demônio, mas, para sua surpresa, ainda mantém traços de sua humanidade. Determinado a encontrar uma cura para Nezuko e vingar sua família, Tanjiro se junta aos Caçadores de Demônios e embarca em uma jornada perigosa.",
+    "link": "https://pt.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+  },
+  {
+    "Titulo": "My Hero Academia",
+    "Genero": "Shounen, Ação, Super Heróis",
+    "AnoLancamento": 2016,
+    "Sinopse": "Em um mundo onde quase todos possuem superpoderes chamados de 'Individualidades', Izuku Midoriya, um garoto sem poderes, sonha em se tornar um herói. Sua vida muda drasticamente quando ele conhece All Might, o maior herói de todos os tempos, e herda seu poder, o One For All. Izuku se matricula na U.A., uma escola para futuros heróis, e começa sua jornada para se tornar um dos maiores heróis do mundo.",
+    "link": "https://pt.wikipedia.org/wiki/Boku_no_Hero_Academia"
+  },
+  {
+    "Titulo": "Attack on Titan",
+    "Genero": "Shounen, Ação, Fantasia",
+    "AnoLancamento": 2013,
+    "Sinopse": "Em um mundo cercado por muralhas gigantes, a humanidade vive em constante terror, sendo atacada por titãs, criaturas gigantescas que devoram humanos. Eren Yeager, um jovem que perdeu sua mãe para um titã, jura exterminar todos eles.",
+    "link": "https://pt.wikipedia.org/wiki/Attack_on_Titan"
+  },
+  {
+    "Titulo": "Fullmetal Alchemist: Brotherhood",
+    "Genero": "Shounen, Ação, Aventura, Fantasia",
+    "AnoLancamento": 2009,
+    "Sinopse": "Uma história emocionante de alquimia, redenção e a busca por uma pedra filosofal.",
+    "link": "https://pt.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood"
+  },
+  {
+    "Titulo": "Gintama",
+    "Genero": "Comédia, Ação, Sci-fi",
+    "AnoLancamento": 2006,
+    "Sinopse": "Uma comédia de ação ambientada em um Japão alternativo, onde samurais coexistem com alienígenas e tecnologias futuristas.",
+    "link": "https://pt.wikipedia.org/wiki/Gintama"
+  },
+  {
+    "Titulo": "Hunter x Hunter",
+    "Genero": "Shounen, Ação, Aventura",
+    "AnoLancamento": 2011,
+    "Sinopse": "Gon Freecss é um garoto que descobre que seu pai, que ele acreditava estar morto, é um renomado Hunter. Determinado a encontrá-lo, Gon se torna um Hunter, passando por uma série de desafios e aventuras enquanto conhece novos amigos e enfrenta poderosos adversários.",
+    "link": "https://pt.wikipedia.org/wiki/Hunter_x_Hunter"
+  },
+  {
+    "Titulo": "Blue Exorcist",
+    "Genero": "Shounen, Ação, Sobrenatural",
+    "AnoLancamento": 2011,
+    "Sinopse": "Rin Okumura descobre que é filho de Satanás e possui poderes demoníacos. Decidido a combater seu destino, ele se junta a uma escola de exorcismo para aprender a usar suas habilidades e lutar contra as forças do inferno.",
+    "link": "https://pt.wikipedia.org/wiki/Blue_Exorcist"
+  },
+  {
+    "Titulo": "The Seven Deadly Sins",
+    "Genero": "Shounen, Ação, Fantasia",
+    "AnoLancamento": 2014,
+    "Sinopse": "Após a queda dos Sete Pecados Capitais, um grupo de cavaleiros lendários, a princesa Elizabeth busca reunir esses cavaleiros para salvar seu reino de uma conspiração demoníaca.",
+    "link": "https://pt.wikipedia.org/wiki/Nanatsu_no_Taizai"
+  },
+  {
+    "Titulo": "One Punch Man",
+    "Genero": "Shounen, Ação, Super Heróis",
+    "AnoLancamento": 2015,
+    "Sinopse": "Saitama é um herói que pode derrotar qualquer adversário com um único soco, mas sua força inigualável o deixou entediado e à procura de um desafio digno. Ele se junta à Associação de Heróis para encontrar um propósito e se enfrentar a ameaças crescentes.",
+    "link": "https://pt.wikipedia.org/wiki/One_Punch_Man"
+  },
+  {
+    "Titulo": "Sword Art Online",
+    "Genero": "Shounen, Ação, Fantasia",
+    "AnoLancamento": 2012,
+    "Sinopse": "Jogadores ficam presos em um MMORPG virtual, e a única maneira de escapar é completar o jogo. Kirito, um dos jogadores, deve lutar contra monstros e enfrentar desafios enquanto busca uma forma de libertar todos.",
+    "link": "https://pt.wikipedia.org/wiki/Sword_Art_Online"
+  },
+  {
+    "Titulo": "Space Dandy",
+    "Genero": "Comédia, Ação, Sci-fi",
+    "AnoLancamento": 2014,
+    "Sinopse": "A série segue Dandy, um caçador de recompensas intergaláctico, enquanto ele viaja pelo espaço em busca de alienígenas raros e enfrenta situações absurdas e engraçadas.",
+    "link": "https://pt.wikipedia.org/wiki/Space_Dandy"
+  },
+  {
+    "Titulo": "Steins;Gate",
+    "Genero": "Sci-fi, Thriller, Drama",
+    "AnoLancamento": 2011,
+    "Sinopse": "Um grupo de amigos descobre uma forma de enviar mensagens para o passado, desencadeando uma série de eventos que podem alterar o futuro. Enquanto lidam com as consequências, eles se envolvem em uma trama complexa de viagem no tempo.",
+    "link": "https://pt.wikipedia.org/wiki/Steins;Gate"
+  },
+  {
+    "Titulo": "Cowboy Bebop",
+    "Genero": "Ação, Aventura, Sci-fi",
+    "AnoLancamento": 1998,
+    "Sinopse": "Em um futuro distante, a história segue a equipe de caçadores de recompensas a bordo da nave Bebop enquanto viajam pelo espaço em busca de criminosos e lidam com seus passados complicados.",
+    "link": "https://pt.wikipedia.org/wiki/Cowboy_Bebop"
+  },
+  {
+    "Titulo": "Clannad",
+    "Genero": "Drama, Romance",
+    "AnoLancamento": 2007,
+    "Sinopse": "Acompanhe a vida de Tomoya Okazaki, um estudante do ensino médio desiludido, enquanto ele enfrenta os desafios da vida e desenvolve relacionamentos significativos com aqueles ao seu redor.",
+    "link": "https://pt.wikipedia.org/wiki/Clannad"
+  },
+  {
+    "Titulo": "Death Note",
+    "Genero": "Mistério, Thriller, Sobrenatural",
+    "AnoLancamento": 2006,
+    "Sinopse": "Light Yagami, um estudante do ensino médio, encontra um caderno com o poder de matar qualquer pessoa cujo nome seja escrito nele. Ele decide usar o caderno para eliminar criminosos e criar um mundo mais justo, mas logo enfrenta um detetive brilhante determinado a impedi-lo.",
+    "link": "https://pt.wikipedia.org/wiki/Death_Note"
+  },
+  {
+    "Titulo": "Code Geass",
+    "Genero": "Ação, Drama, Mecha",
+    "AnoLancamento": 2006,
+    "Sinopse": "Lelouch vi Britannia, um jovem príncipe exilado, ganha o poder de comandar a vontade das pessoas e usa suas habilidades para liderar uma revolução contra o império que governa o mundo.",
+    "link": "https://pt.wikipedia.org/wiki/Code_Geass"
+  },
+  {
+    "Titulo": "Made in Abyss",
+    "Genero": "Aventura, Fantasia, Drama",
+    "AnoLancamento": 2017,
+    "Sinopse": "Riko, uma jovem garota, decide explorar o Abismo, uma enorme e misteriosa caverna, para encontrar sua mãe desaparecida. Junto com um robô chamado Reg, ela enfrenta desafios e perigos em sua jornada.",
+    "link": "https://pt.wikipedia.org/wiki/Made_in_Abyss"
+  },
+  {
+    "Titulo": "Higurashi no Naku Koro ni",
+    "Genero": "Horror, Mistério, Suspense",
+    "AnoLancamento": 2006,
+    "Sinopse": "Em uma pequena vila rural, uma série de eventos macabros começa a acontecer durante o festival local. Um grupo de amigos tenta desvendar o mistério por trás dos assassinatos e desaparecimentos que ocorrem anualmente.",
+    "link": "https://pt.wikipedia.org/wiki/Higurashi_no_Naku_Koro_ni"
+  },
+  {
+    "Titulo": "Re:Zero - Starting Life in Another World",
+    "Genero": "Ação, Aventura, Fantasia",
+    "AnoLancamento": 2016,
+    "Sinopse": "Natsuki Subaru é transportado para um mundo de fantasia, onde descobre que tem a habilidade de voltar no tempo sempre que morre. Usando essa habilidade, ele tenta resolver problemas e proteger aqueles que ama.",
+    "link": "https://pt.wikipedia.org/wiki/Re:_Zero_kara_Hajimeru_Isekai_Seikatsu"
+  },
+  {
+    "Titulo": "Violet Evergarden",
+    "Genero": "Drama, Romance",
+    "AnoLancamento": 2018,
+    "Sinopse": "Após a guerra, Violet Evergarden, uma ex-soldado, começa a trabalhar como uma Auto Memory Doll, escrevendo cartas para outras pessoas. Ela busca entender o significado das palavras que ela escreve e encontrar um propósito para sua vida.",
+    "link": "https://pt.wikipedia.org/wiki/Violet_Evergarden"
+  },
+  {
+    "Titulo": "Ano Hana: The Flower We Saw That Day",
+    "Genero": "Drama, Slice of Life",
+    "AnoLancamento": 2011,
+    "Sinopse": "Um grupo de amigos de infância se separa após a morte de uma amiga. Anos depois, o espírito dela aparece para um dos amigos e pede que ele reúna o grupo novamente para ajudá-la a realizar um desejo inacabado.",
+    "link": "https://pt.wikipedia.org/wiki/Ano_Hana"
+  },
+  {
+    "Titulo": "Fate/Zero",
+    "Genero": "Ação, Fantasia, Drama",
+    "AnoLancamento": 2011,
+    "Sinopse": "Durante a Guerra dos Sete Magos, conhecidos como Mestres, lutam com seus servos, heróis lendários, em uma competição brutal para obter o Santo Graal e realizar seus desejos mais profundos.",
+    "link": "https://pt.wikipedia.org/wiki/Fate/Zero"
+  },
+  {
+    "Titulo": "Psycho-Pass",
+    "Genero": "Ação, Sci-fi, Thriller",
+    "AnoLancamento": 2012,
+    "Sinopse": "Em um futuro distópico, o sistema de segurança pública monitora e controla a mentalidade dos cidadãos. A história segue uma nova recruta da força policial que investiga crimes em um mundo onde o comportamento é regulado por um sistema central.",
+    "link": "https://pt.wikipedia.org/wiki/Psycho-Pass"
+  },
+  {
+    "Titulo": "Paranoia Agent",
+    "Genero": "Mistério, Psicológico, Suspense",
+    "AnoLancamento": 2004,
+    "Sinopse": "Um serial killer conhecido como Shounen Bat está aterrorizando a cidade, e cada episódio explora as vidas das vítimas e como o medo e a paranoia afetam a sociedade.",
+    "link": "https://pt.wikipedia.org/wiki/Paranoia_Agent"
+  },
+  {
+    "Titulo": "JoJo's Bizarre Adventure",
+    "Genero": "Ação, Aventura, Fantasia",
+    "AnoLancamento": 2012,
+    "Sinopse": "A série segue a saga dos Joestar, uma família com habilidades especiais. Cada parte da série segue uma geração diferente da família enquanto enfrentam inimigos sobrenaturais e aventuras bizarros.",
+    "link": "https://pt.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
+  },
+  {
+    "Titulo": "K-On!",
+    "Genero": "Comédia, Música, Slice of Life",
+    "AnoLancamento": 2009,
+    "Sinopse": "Cinco garotas se juntam ao clube de música leve da escola e começam a tocar juntas. A série acompanha suas experiências e amizade enquanto elas se dedicam à música e à vida escolar.",
+    "link": "https://pt.wikipedia.org/wiki/K-On!"
+  },
+  {
+    "Titulo": "Toradora!",
+    "Genero": "Romance, Comédia, Drama",
+    "AnoLancamento": 2008,
+    "Sinopse": "A história gira em torno de Ryuuji e Taiga, dois estudantes do ensino médio com personalidades conflitantes. Eles fazem um pacto para ajudar um ao outro a conquistar seus respectivos interesses românticos.",
+    "link": "https://pt.wikipedia.org/wiki/Toradora!"
+  },
+  {
+    "Titulo": "Samurai Champloo",
+    "Genero": "Ação, Aventura, Histórico",
+    "AnoLancamento": 2004,
+    "Sinopse": "A série segue três viajantes – um samurai, uma jovem e um ex-samurai – enquanto eles viajam pelo Japão feudal em busca de um samurai que cheira a girassol.",
+    "link": "https://pt.wikipedia.org/wiki/Samurai_Champloo"
+  },
+  {
+    "Titulo": "Great Teacher Onizuka",
+    "Genero": "Comédia, Drama, Slice of Life",
+    "AnoLancamento": 1999,
+    "Sinopse": "Onizuka, um ex-membro de gangue, se torna um professor e tenta se conectar com seus alunos problemáticos enquanto tenta viver uma vida mais produtiva.",
+    "link": "https://pt.wikipedia.org/wiki/Great_Teacher_Onizuka"
+  }
+]
